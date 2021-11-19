@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="">
+        <meta name="author" content="">
+    
+        <title>TJ's Portfolio</title>
+    
+         <!-- Bootstrap Core CSS -->
+        <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    
+        <!-- Theme CSS -->
+        <link href="css/freelancer.min.css" rel="stylesheet">
+        <link href="css/freelancer.css" rel="stylesheet">
+        <!-- Custom Fonts -->
+        <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+    
+       
+    
+    </head>
+
+    <body id="page-top" class="index">
+
+         <!-- Navigation -->
+    <nav id="mainNav" class="navbar navbar-default navbar-fixed-top navbar-custom">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand" href="#page-top">TJ Allen</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="#portfolio">Portfolio</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="#about">About</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="#contact">Contact</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+            
+    
+        <!-- Martial Arts -->
+    <section class="success" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>The Martial Artist...</h2>
+                    <hr class="star-light">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-lg-offset-2">
+                    <p>For as long as I can remember I have been interested in martial arts. Just like most people my age, my childhood Saturday mornings were capped off by watching Kung Fu cinema. "36 Chambers of Shaolin", "Kid with the Goldern Arms", and my favorite "5 Deadly Venoms" played faithfully in my house. So naturally I started training in Martial Arts the first opportunity that presented itself. </p>
+                </div>
+                <div class="col-lg-4">
+                    <p>I started training when I was 14 years old and never looked back. One of my best friends at the time, became my instructor giving my first formal lessons and I became addicted very quickly. I went to continue my training when I joined the US Air Force and that's when it really ramped up for me. I received my 1st Degree belt in Tae Kwon Do in 2005 and was encouraged to continue to expand my knowledge base which helped me to receiving my 4th degree in 2018. </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+        <!-- Coaching -->
+    <section class="success2" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>The Coach...</h2>
+                    <hr class="star-light">
+                </div>
+            </div>
+                <div class="row">
+                    <div class="col-lg-4 col-lg-offset-2">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    </div>
+                    <div class="col-lg-4">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
+                    </div>
+                </div>
+            </div>
+    </section>
+
+    <!-- The Artist... -->
+    <section class="success" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>The Artist...</h2>
+                    <hr class="star-light">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-lg-offset-2">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                </div>
+                <div class="col-lg-4">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+      
+     <!-- Footer -->
+     <footer class="text-center">
+        <div class="footer-above">
+            <div class="container">
+                <div class="row">
+                    <div class="footer-col col-md-6">
+                        <h3>Location</h3>
+                        <p>Greater Philadelphia Area 19119</p>
+                    </div>
+                    <div class="footer-col col-md-6">
+                        <h3>Around the Web</h3>
+                        <ul class="list-inline">
+                            <li>
+                                <a href="https://www.facebook.com/alltyron/" class="btn-social btn-outline" target="_blank"><i class="fa fa-fw fa-facebook"></i></a>
+                            </li>
+                            <li>
+                                <a href="https://twitter.com/tjallen261" class="btn-social btn-outline" target="_blank"><i class="fa fa-fw fa-twitter"></i></a>
+                            </li>
+                            <li>
+                                <a href="https://www.instagram.com/tjbey_allday/" class="btn-social btn-outline" target="_blank"><i class="fa fa-fw fa-instagram"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-below">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        Copyright &copy; <strong style="color: #01fa2b;">TJ Allen</strong> 2021
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+
+
+
+     <!-- jQuery -->
+     <script src="vendor/jquery/jquery.min.js"></script>
+
+     <!-- Bootstrap Core JavaScript -->
+     <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+ 
+     <!-- Plugin JavaScript -->
+     <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+ 
+     <!-- Contact Form JavaScript -->
+     <script src="js/jqBootstrapValidation.js"></script>
+     <script src="js/contact_me.js"></script>
+ 
+     <!-- Theme JavaScript -->
+     <script src="js/freelancer.min.js"></script>
+    </body>
+
+
+</html>
